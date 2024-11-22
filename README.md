@@ -1,7 +1,3 @@
-Aqui está um exemplo de **README.md** para o conto **"O Defunto da Língua Viva"**.
-
----
-
 # O Defunto da Língua Viva
 
 ## **Descrição**
