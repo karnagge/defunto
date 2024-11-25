@@ -49,3 +49,8 @@ No porão de Luana, olhos negros como buracos no tecido da realidade se abriam p
 O vilarejo dormia, ignorante do veneno que acabara de acolher em seu seio. Algo tinha despertado — algo que transformaria sonhos em pesadelos, desejos em maldições, e almas em moeda de troca.
 
 A noite era apenas o primeiro ato de uma peça muito mais antiga e muito mais cruel.
+
+---
+**Navegação**
+- [<< Anterior: Capítulo 1, Cena 2 - O Primeiro Contato](../cap_01/cena_2.md)
+- [>> Próxima: Capítulo 2, Cena 1 - Os Sussurros Noturnos](../cap_02/cena_1.md)

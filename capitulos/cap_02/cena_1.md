@@ -65,3 +65,8 @@ Eva subiu as escadas quase correndo, seus pés batendo contra os degraus de made
 Mas enquanto caminhava de volta para casa, sentiu algo diferente. Uma semente havia sido plantada — não de medo ou repulsa, mas de uma curiosidade perigosa. Porque no meio de todas as manipulações e meias-verdades, a cabeça havia dito algo verdadeiro: ela queria ser vista. Queria ser entendida.
 
 E essa verdade era mais assustadora que qualquer mentira.
+
+---
+**Navegação**
+- [<< Anterior: Capítulo 1, Cena 3 - O Retorno ao Vilarejo](../cap_01/cena_3.md)
+- [>> Próxima: Capítulo 2, Cena 2 - O Jogo do Trickster](../cap_02/cena_2.md)

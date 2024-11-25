@@ -63,3 +63,8 @@ E então ela falou.
 O nome reverberou não pelo ar, mas através dela — como se a própria palavra fosse um anzol puxando algo das profundezas de sua alma.
 
 Naquele momento, enquanto o sorriso da cabeça se alargava com fome antiga, Eva soube: algo havia despertado. E trazia consigo promessas que nenhuma mulher deveria ouvir.
+
+---
+**Navegação**
+- [<< Anterior: Início da História](../../README.md)
+- [>> Próxima: Capítulo 1, Cena 2 - O Primeiro Contato](../cap_01/cena_2.md)

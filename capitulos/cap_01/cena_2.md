@@ -49,3 +49,8 @@ O sol sangrava no horizonte, pintando a cena em tons de sacrifício. Como se o p
 E assim, carregado por mãos que tremiam por razões opostas, iniciei meu retorno ao mundo dos vivos. Um mundo que em breve aprenderia que existiam fomes piores que a morte.
 
 Muito piores.
+
+---
+**Navegação**
+- [<< Anterior: Capítulo 1, Cena 1 - A Descoberta da Cabeça](../cap_01/cena_1.md)
+- [>> Próxima: Capítulo 1, Cena 3 - O Retorno ao Vilarejo](../cap_01/cena_3.md)

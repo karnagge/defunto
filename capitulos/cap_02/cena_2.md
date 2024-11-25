@@ -31,3 +31,8 @@ Mas por enquanto, esperava. A paciência era uma virtude que séculos de existê
 O som de passos na escada. Luana descia, trazendo consigo o cheiro de desejo e medo. Hora de vestir mais uma máscara, de tecer mais uma mentira com fios de verdade.
 
 Que o próximo ato começasse.
+
+---
+**Navegação**
+- [<< Anterior: Capítulo 2, Cena 1 - Os Sussurros Noturnos](../cap_02/cena_1.md)
+- [>> Próxima: Capítulo 2, Cena 3 - A Primeira Transformação](../cap_02/cena_3.md)
