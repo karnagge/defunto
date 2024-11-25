@@ -1,21 +1,12 @@
-# Projeto do Livro
+# O Defunto da Língua Viva
 
-## Estrutura do Projeto
-- `/personagens/`: Perfis detalhados dos personagens
-- `/locais/`: Descrições dos cenários principais
-- `/enredo/`: Estrutura da história e documentos de planejamento
-- `/roteiro/`: Divisão de capítulos e cenas
-- `/rascunhos/`: Rascunhos e versões do manuscrito
+## Sobre a Obra
+Um conto bizarro e poético que mistura influências de Charles Bukowski, Carlos Ruiz Zafón e Nelson Rodrigues. Em um vilarejo isolado onde todos os homens foram convocados para a guerra, uma entidade sobrenatural — uma cabeça decapitada — promete prazeres inigualáveis em troca de sacrifícios cada vez maiores.
 
-## Fluxo de Trabalho
-1. Desenvolver personagens
-2. Criar mundo e locais
-3. Construir estrutura do enredo
-4. Criar roteiro detalhado
-5. Escrever rascunhos dos capítulos
-6. Revisar e editar
+## Sinopse
+Em um vilarejo abandonado pelos homens devido à guerra, um grupo de mulheres descobre uma cabeça decapitada enterrada em um altar antigo na floresta. A entidade tem o poder de proporcionar prazeres inigualáveis e despertar desejos reprimidos, mas cobra um preço terrível: fragmentos de alma, memórias e humanidade. O vilarejo se divide entre adoração e resistência, enquanto Eva emerge como a última esperança de salvação.
 
-## Dicas
-- Manter consistência nos personagens e no mundo
-- Atualizar documentos do enredo conforme a história evolui
-- Usar controle de versão para os rascunhos
+## Estado Atual
+- Em desenvolvimento
+- Revisão contínua
+- Expansão do universo
