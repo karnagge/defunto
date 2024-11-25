@@ -74,6 +74,27 @@ Substituir palavras que criam distância entre o leitor e a experiência:
 - Horror sugerido vs. explícito
 - Uso do silêncio e da antecipação
 
+### Elementos Sensuais
+- Uso de linguagem sugestiva e poética
+- Metáforas elaboradas para descrever sensações
+- Construção gradual de tensão sexual
+- Equilíbrio entre horror e sedução
+- Ênfase no sobrenatural do prazer
+
+### Descrição de Cenas Sensuais
+- Foco em sensações e emoções
+- Uso de metáforas naturais e sobrenaturais
+- Construção de atmosfera através dos sentidos
+- Manter sutileza e mistério
+- Equilibrar terror e desejo
+
+### Exemplos de Transformação
+**Descrição básica:**
+"A cabeça sussurrou promessas de prazer."
+
+**Descrição elaborada:**
+"A língua da cabeça deslizou pelo ar como fumaça de incenso, suas palavras carregando promessas de êxtases que nenhum mortal jamais conheceu. Cada sílaba era um toque fantasma na pele, cada pausa um convite para prazeres além da compreensão humana."
+
 ## Diretrizes para POV da Cabeça
 ### Voz Narrativa
 - Tom irônico e provocativo
