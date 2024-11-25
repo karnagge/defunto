@@ -1,5 +1,19 @@
 # Diretrizes Técnicas de Escrita
 
+## Tempo Narrativo
+### Uso do Tempo Passado
+- História narrada no pretérito
+- Manter consistência temporal em todas as cenas
+- Exceção: diálogos no presente quando apropriado
+- Pensamentos diretos podem usar presente
+
+### Exemplos de Transformação
+**Tempo presente (incorreto):**
+"O sol arrasta as sombras dos campos como dedos famintos."
+
+**Tempo passado (correto):**
+"O sol arrastava as sombras dos campos como dedos famintos."
+
 ## Técnicas de Suspense
 ### Estrutura Narrativa
 - Uso de foreshadowing sutil
@@ -67,6 +81,14 @@ Substituir palavras que criam distância entre o leitor e a experiência:
 - Manipulação através da verdade
 - Prazer no caos psicológico
 - Sabedoria antiga e cruel
+- Narração no passado, mesmo em primeira pessoa
+
+### Exemplos de Narração da Cabeça
+**Incorreto (presente):**
+"Ah, como é delicioso observar o caos se desenrolar."
+
+**Correto (passado):**
+"Ah, como era delicioso observar o caos se desenrolando."
 
 ### Características do Trickster
 - Subversão de expectativas
@@ -93,7 +115,7 @@ Substituir palavras que criam distância entre o leitor e a experiência:
 - **Capítulo 8:** Promessa de retorno
 
 ## Observações Importantes
-1. Manter consistência na voz narrativa
+1. Manter consistência na voz narrativa e tempo verbal
 2. Equilibrar horror psicológico e elementos sobrenaturais
 3. Desenvolver tensão de forma orgânica
 4. Usar silêncio e sugestão como ferramentas

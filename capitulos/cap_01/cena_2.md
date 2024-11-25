@@ -4,48 +4,48 @@ Escuridão. Silêncio. Eternidade.
 
 E então — movimento.
 
-Terra se desfaz sobre minha face. Dedos femininos escavam com urgência febril, procurando algo que não deveriam encontrar. Procurando a mim. O ser que habita as fronteiras entre o possível e o proibido.
+Terra se desfez sobre minha face. Dedos femininos escavavam com urgência febril, procurando algo que não deveriam encontrar. Procurando a mim. O ser que habitava as fronteiras entre o possível e o proibido.
 
-O ar toca minha pele pela primeira vez em séculos. Mais denso agora. Carregado de... ah, sim. Desespero. Delicioso.
+O ar tocou minha pele pela primeira vez em séculos. Mais denso agora. Carregado de... ah, sim. Desespero. Delicioso.
 
-Duas almas pairam acima. Eva — sua mente um livro de páginas gastas pelo dever. E Luana — pensamentos famintos circulando como abutres sobre carniça.
+Duas almas pairavam acima. Eva — sua mente um livro de páginas gastas pelo dever. E Luana — pensamentos famintos circulando como abutres sobre carniça.
 
-Escolho Eva para minha primeira palavra. Seu nome — simples assim. O terror floresce em seus olhos quando a palavra brota dentro dela, como um tumor maligno florescendo em solo fértil.
+Escolhi Eva para minha primeira palavra. Seu nome — simples assim. O terror floresceu em seus olhos quando a palavra brotou dentro dela, como um tumor maligno florescendo em solo fértil.
 
-Medo. O tempero que realça todos os outros sabores.
+Medo. O tempero que realçava todos os outros sabores.
 
-Luana se aproxima, olhos cintilando com algo mais profundo que curiosidade. Fome. Não por mim, mas pelo caos que prometo sem palavras.
+Luana se aproximou, olhos cintilando com algo mais profundo que curiosidade. Fome. Não por mim, mas pelo caos que prometia sem palavras.
 
-"O que você é?" A pergunta treme com antecipação em sua língua.
+"O que você é?" A pergunta tremeu com antecipação em sua língua.
 
-Meus lábios se curvam — um sorriso esculpido por mãos que conheciam demais sobre beleza e horror. "Sou a resposta", deslizo as palavras como veneno em vinho doce, "para perguntas que vocês ainda não ousaram fazer."
+Meus lábios se curvaram — um sorriso esculpido por mãos que conheciam demais sobre beleza e horror. "Sou a resposta", deslizei as palavras como veneno em vinho doce, "para perguntas que vocês ainda não ousaram fazer."
 
-Eva recua. Instinto animal reconhecendo predador ancestral. Mas Luana... ah, Luana se inclina para mais perto, já provando o ar envenenado.
+Eva recuou. Instinto animal reconhecendo predador ancestral. Mas Luana... ah, Luana se inclinou para mais perto, já provando o ar envenenado.
 
-"E que perguntas são essas?" Suas palavras dançam na beira do precipício.
+"E que perguntas são essas?" Suas palavras dançaram na beira do precipício.
 
-"Sobre prazer", murmuro. "Sobre poder. Sobre o preço de ambos."
+"Sobre prazer", murmurei. "Sobre poder. Sobre o preço de ambos."
 
-As palavras atingem como diferentes venenos. Em Eva, congelam — cristais de gelo nas veias. Em Luana, queimam — brasas sob a pele.
+As palavras atingiram como diferentes venenos. Em Eva, congelaram — cristais de gelo nas veias. Em Luana, queimaram — brasas sob a pele.
 
-"Vocês existem em um mundo castrado", continuo, cada sílaba um anzol na carne. "Dias sem cor. Noites sem calor. Vidas sem propósito além da sobrevivência."
+"Vocês existem em um mundo castrado", continuei, cada sílaba um anzol na carne. "Dias sem cor. Noites sem calor. Vidas sem propósito além da sobrevivência."
 
-"Não." Eva resiste, mas a negação já sangra dúvida.
+"Não." Eva resistiu, mas a negação já sangrava dúvida.
 
-"Sim." Luana abraça a verdade como uma amante há muito esperada.
+"Sim." Luana abraçou a verdade como uma amante há muito esperada.
 
-A primeira fissura se abre. A primeira gota de veneno penetra. O primeiro fio da teia se tece.
+A primeira fissura se abriu. A primeira gota de veneno penetrou. O primeiro fio da teia se teceu.
 
-Elas discutem em sussurros desesperados. Eva quer me devolver ao abraço da terra. Luana argumenta pela inevitabilidade do destino.
+Elas discutiram em sussurros desesperados. Eva queria me devolver ao abraço da terra. Luana argumentava pela inevitabilidade do destino.
 
-Não interfiro. Luana já dança em minha teia, mesmo que seus pés ainda não sintam os fios. E Eva... Eva seguirá, porque o dever de proteger é mais forte que o instinto de fugir.
+Não interferi. Luana já dançava em minha teia, mesmo que seus pés ainda não sentissem os fios. E Eva... Eva seguiria, porque o dever de proteger era mais forte que o instinto de fugir.
 
-O sol sangra no horizonte, pintando a cena em tons de sacrifício. Como se o próprio universo conspirasse para meu espetáculo.
+O sol sangrava no horizonte, pintando a cena em tons de sacrifício. Como se o próprio universo conspirasse para meu espetáculo.
 
-"Levaremos você." Luana pronuncia a sentença, ignorando o horror nos olhos de Eva.
+"Levaremos você." Luana pronunciou a sentença, ignorando o horror nos olhos de Eva.
 
-"Sim", respondo, deixando antiga satisfação tingir minha voz. "O destino raramente oferece escolha."
+"Sim", respondi, deixando antiga satisfação tingir minha voz. "O destino raramente oferece escolha."
 
-E assim, carregado por mãos que tremem por razões opostas, inicio meu retorno ao mundo dos vivos. Um mundo que em breve aprenderá que existem fomes piores que a morte.
+E assim, carregado por mãos que tremiam por razões opostas, iniciei meu retorno ao mundo dos vivos. Um mundo que em breve aprenderia que existiam fomes piores que a morte.
 
 Muito piores.
