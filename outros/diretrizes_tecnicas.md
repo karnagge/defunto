@@ -104,6 +104,20 @@ Substituir palavras que criam distância entre o leitor e a experiência:
 3. Clímax impactante
 4. Cliffhanger sagaz
 
+### Navegação Entre Cenas
+- Cada cena deve terminar com links de navegação
+- Formato padrão:
+  ```markdown
+  ---
+  **Navegação**
+  - [<< Anterior: Capítulo X, Cena Y - Título da Cena](../cap_XX/cena_Y.md)
+  - [>> Próxima: Capítulo X, Cena Y - Título da Cena](../cap_XX/cena_Y.md)
+  ```
+- Primeira cena do livro liga ao README.md como "Anterior"
+- Última cena do livro não tem link "Próxima"
+- Usar caminhos relativos (../cap_XX/cena_Y.md)
+- Incluir número do capítulo e título completo da cena
+
 ### Cliffhangers por Capítulo
 - **Capítulo 1:** Revelação do primeiro poder da cabeça
 - **Capítulo 2:** Primeira transformação física
